@@ -15,13 +15,13 @@ const {
 
 /*// Array of Mega credentials
 const megaCredentials = [
-    { email: 'dgdarrell8@gmail.com', password: 'subzero2025' },
+    { email: 'vincentgaga46@gmail.com', password: 'gagamd2026' },
     { email: '', password: '' }
 ];
 */
 // Array of Mega credentials
 const megaCredentials = [
-  { email: 'vincentgaga46@gmail.com', password: 'VincentGaniza@2010' }
+  { email: 'vincentgaga46@gmail.com', password: 'Gaga@2010' }
 ];
 
 
