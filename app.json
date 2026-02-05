@@ -1,0 +1,32 @@
+{
+  "name": "SBM Bags Stores",
+  "description": "Official website for SBM Bags Stores in Mtwara, Tanzania",
+  "repository": "https://github.com/yourusername/sbm-bags-stores",
+  "logo": "https://files.catbox.moe/oac427.png",
+  "keywords": [
+    "bags",
+    "mtwara",
+    "tanzania",
+    "business",
+    "ecommerce",
+    "swahili"
+  ],
+  "website": "https://sbm-bags-stores.herokuapp.com",
+  "success_url": "/",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "image": "heroku/nodejs",
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
